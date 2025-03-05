@@ -10,7 +10,7 @@ Puedes acceder al proyecto a través del siguiente enlace:
 
 ## 💻 Ejecución y configuración
 
-- Para la el correcto funcionamiento del proyecto solo necesita descargar el [proyecto de FE](https://github.com/JulianMi12/Employee-Management-API).
+- Para la el correcto funcionamiento del proyecto solo necesita descargar el [proyecto de BE](https://github.com/JulianMi12/Employee-Management-API).
 - Para ejecutarlo, navega a la carpeta `\target` y en una consola ejecutar el comando `java -jar Employee-Management-0.0.1-SNAPSHOT.war`
 - El proyecto ejecutara en `http://localhost:8080`
 
